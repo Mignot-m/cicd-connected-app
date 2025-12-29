@@ -6,7 +6,7 @@
 
   <groupId>cddd5d6a-0c83-41e6-8320-5a38fed4d807</groupId>
   <artifactId>cicd-connected-app</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <packaging>mule-application</packaging>
 
   <name>cicd-connected-app</name>
@@ -23,8 +23,8 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-clean-plugin</artifactId>
-        <version>4.5.3</version>
-        <extensions>true</extensions>
+        <version>3.2.0</version>
+        
       </plugin>
 
       <plugin>
